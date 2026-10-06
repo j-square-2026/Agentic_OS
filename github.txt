@@ -1,0 +1,16 @@
+| Command                   | Use                            |
+| ------------------------- | ------------------------------ |
+| `git init`                | Start Git in a new project     |
+| `git status`              | Check what changed             |
+| `git add .`               | Add all changes                |
+| `git commit -m "message"` | Save changes                   |
+| `git push`                | Upload changes to GitHub       |
+| `git pull`                | Get latest changes from GitHub |
+| `git diff`                | See what changed               |
+| `git log --oneline`       | See previous commits           |
+| `git remote -v`           | Check GitHub connection        |
+| `git branch`              | See branches                   |
+| `git switch main`         | Switch to main branch          |
+| `git switch -c name`      | Create a new branch            |
+| `git restore file`        | Undo changes to a file         |
+| `git rm file`             | Delete a file with Git         |
