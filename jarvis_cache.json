@@ -1,5 +1,5 @@
 {
-  "timestamp": "2026-10-07T10:30:09.817543",
+  "timestamp": "2026-10-07T10:57:26.419720",
   "discovered_apps": {
     "access": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Access.lnk",
     "adobe creative cloud": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Adobe Creative Cloud.lnk",
@@ -552,7 +552,7 @@
     },
     {
       "name": "Copilot",
-      "version": "154.0.4258.53",
+      "version": "154.0.4258.62",
       "publisher": "Microsoft Corporation",
       "location": "C:\\Program Files (x86)\\Microsoft\\Copilot\\Application"
     },
