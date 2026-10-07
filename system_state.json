@@ -1,0 +1,159 @@
+{
+    "timestamp": "2026-10-06T23:51:28.677623",
+    "system": {
+        "os": "Windows",
+        "os_version": "10.0.26200",
+        "machine": "AMD64",
+        "processor": "Intel64 Family 6 Model 186 Stepping 2, GenuineIntel",
+        "hostname": "LAPTOP-DF6IOETL"
+    },
+    "cpu": {
+        "usage_percent": 21.7,
+        "cores_logical": 16,
+        "cores_physical": 12,
+        "frequency_mhz": 2200.0
+    },
+    "memory": {
+        "total_gb": 15.65,
+        "used_gb": 11.44,
+        "free_gb": 4.21,
+        "usage_percent": 73.1
+    },
+    "disk": {
+        "total_gb": 297.44,
+        "used_gb": 0.15,
+        "free_gb": 297.29,
+        "usage_percent": 0.0
+    },
+    "processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.0
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.1
+        },
+        {
+            "pid": 236,
+            "name": "",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.39
+        },
+        {
+            "pid": 280,
+            "name": "Registry",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.33
+        },
+        {
+            "pid": 800,
+            "name": "Code.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.81
+        },
+        {
+            "pid": 932,
+            "name": "smss.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.01
+        },
+        {
+            "pid": 1088,
+            "name": "chrome.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.49
+        },
+        {
+            "pid": 1168,
+            "name": "WUDFHost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05
+        },
+        {
+            "pid": 1376,
+            "name": "csrss.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04
+        },
+        {
+            "pid": 1452,
+            "name": "svchost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.04
+        },
+        {
+            "pid": 1460,
+            "name": "wininit.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06
+        },
+        {
+            "pid": 1476,
+            "name": "svchost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.11
+        },
+        {
+            "pid": 1532,
+            "name": "svchost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.29
+        },
+        {
+            "pid": 1604,
+            "name": "services.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.07
+        },
+        {
+            "pid": 1620,
+            "name": "chrome.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.06
+        },
+        {
+            "pid": 1624,
+            "name": "LsaIso.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02
+        },
+        {
+            "pid": 1632,
+            "name": "lsass.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.22
+        },
+        {
+            "pid": 1764,
+            "name": "svchost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.28
+        },
+        {
+            "pid": 1780,
+            "name": "svchost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.05
+        },
+        {
+            "pid": 1784,
+            "name": "fontdrvhost.exe",
+            "cpu_percent": 0.0,
+            "memory_percent": 0.02
+        }
+    ],
+    "network": {
+        "hostname": "LAPTOP-DF6IOETL",
+        "active_connections": 39
+    },
+    "battery": {
+        "available": true,
+        "percent": 80,
+        "charging": true
+    }
+}
